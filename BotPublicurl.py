@@ -18,7 +18,7 @@ from telegram.ext import (
 # ============ CONFIGURATION ============
 
 # Yahan apna Telegram Bot Token daalo
-BOT_TOKEN = "8612093910:AAEUllxHDLp5SC0TqtCYiNK-C9rzCzff234"
+BOT_TOKEN = "8612093910:AAEvTUEFgNd73xc97Nor0ci18MDQRmJjkUA"
 
 # Yahan apna Telegram numeric User ID daalo
 OWNER_ID = 6146027296
